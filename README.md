@@ -1,2 +1,2 @@
-# research
+# academic
 share it to public
